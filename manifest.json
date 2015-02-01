@@ -1,0 +1,42 @@
+{
+    "name": "Anarchism",
+    "id": "anarchism",
+    "description": {
+        "en": "An exhaustive exploration of Anarchist theory and practice.",
+        "fr": "Exploration exhaustive de la théorie et de la pratique anarchiste."
+    },
+    "licence": "GPL-2",
+    "developer": {
+        "name": "opi",
+        "email": "opi@zeropi.net",
+        "url": "http://zeropi.net"
+    },
+    "multi_instance": "false",
+    "arguments": {
+        "install" : [
+            {
+                "name": "domain",
+                "ask": {
+                    "en": "Choose a domain for anarchism"
+                },
+                "example": "example.com"
+            },
+            {
+                "name": "path",
+                "ask": {
+                    "en": "Choose a path for anarchism"
+                },
+                "example": "/anarchism",
+                "default": "/anarchism"
+            },
+            {
+                "name": "is_public",
+                "ask": {
+                    "en": "Is it a public website ?"
+                },
+                "choices": ["Yes", "No"],
+                "default": "Yes"
+            }
+        ]
+    }
+}
