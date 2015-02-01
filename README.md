@@ -1,10 +1,5 @@
-# YunoHost example app #
+# apt-get install anarchism #
 
-## Usage ##
-- Add application source files into `sources` subfolder.
-- Edit `conf/nginx.conf` file to match application prerequisites.
-- Edit manifest with application specific information.
-- Edit the install/upgrade/remove scripts.
+An exhaustive exploration of Anarchist theory and practice.
 
-**More information on the documentation page:**    
-https://yunohost.org/packaging_apps
+This application simply install the anarchy debian package, and make it readable through web.
