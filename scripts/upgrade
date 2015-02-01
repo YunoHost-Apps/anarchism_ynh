@@ -14,6 +14,7 @@ sudo apt-get update
 sudo apt-get upgrade anarchism
 
 # Modify Nginx configuration file and copy it to Nginx conf directory
+final_path=/usr/share/doc/anarchism/html
 sed -i "s@YNH_WWW_PATH@$path@g" ../conf/nginx.conf
 sed -i "s@YNH_WWW_ALIAS@$final_path/@g" ../conf/nginx.conf
 sudo cp ../conf/nginx.conf /etc/nginx/conf.d/$domain.d/$app.conf
