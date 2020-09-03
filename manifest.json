@@ -6,7 +6,7 @@
         "en": "An exhaustive exploration of Anarchist theory and practice.",
         "fr": "Exploration exhaustive de la théorie et de la pratique anarchiste."
     },
-    "version": "15.1-9~ynh1",
+    "version": "15.3-2~ynh1",
     "url": "https://salsa.debian.org/debian/anarchism/",
     "licence": "GPL-2.0-or-later",
     "maintainer": {

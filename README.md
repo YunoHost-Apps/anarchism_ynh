@@ -11,11 +11,11 @@ If you don't have YunoHost, please see [here](https://yunohost.org/#/install) to
 ## Overview
 This is an anarchist FAQ. Its aim is to present what anarchism really stands for and indicate why you should become an anarchist.
 
-**Shipped version:** 15.1-9
+**Shipped version:** 15.3-2
 
 ## Screenshots
 
-![](https://salsa.debian.org/debian/anarchism/raw/debian/15.1-9/debian/anarchism.svg)
+![](https://salsa.debian.org/debian/anarchism/raw/debian/15.3-2/debian/anarchism.svg)
 
 ## Demo
 
