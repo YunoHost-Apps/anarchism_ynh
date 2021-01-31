@@ -43,7 +43,7 @@ fi
 
 # If this folder exists, delete the old version of anarchism, and replace it with the new way to installing it.
 if [ -d "/usr/share/doc/anarchism/html" ]; then
-  ynh_package_remove anarchism
+  ynh_remove_app_dependencies anarchism
   final_path=/var/www/$app
 	ynh_app_setting_set --app=$app --key=final_path --value=$final_path
 fi
