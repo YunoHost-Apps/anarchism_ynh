@@ -29,8 +29,8 @@ This is an anarchist FAQ. Its aim is to present what anarchism really stands for
 
 #### Multi-users support
 
-Are LDAP and HTTP auth supported? **No**  
-Can the app be used by multiple users? **Yes**
+ * Are LDAP and HTTP auth supported? **No**  
+ * Can the app be used by multiple users? **Yes**
 
 #### Supported architectures
 
@@ -40,7 +40,6 @@ Can the app be used by multiple users? **Yes**
 ## Links
 
  * Report a bug: https://github.com/YunoHost-Apps/anarchism_ynh/issues
- * App website: Link to the official website of this app
  * Upstream app repository: https://salsa.debian.org/debian/anarchism/
  * YunoHost website: https://yunohost.org/
 
