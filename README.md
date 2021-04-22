@@ -34,8 +34,8 @@ This is an anarchist FAQ. Its aim is to present what anarchism really stands for
 
 #### Supported architectures
 
-* x86-64b - [![Build Status](https://ci-apps.yunohost.org/ci/logs/anarchism%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/anarchism/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/anarchism%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/anarchism/)
+* x86-64b - [![Build Status](https://ci-apps.yunohost.org/ci/logs/anarchism.svg)](https://ci-apps.yunohost.org/ci/apps/anarchism/)
+* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/anarchism.svg)](https://ci-apps-arm.yunohost.org/ci/apps/anarchism/)
 
 ## Links
 
