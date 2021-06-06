@@ -5,8 +5,8 @@
 
 *[Lire ce readme en français.](./README_fr.md)*
 
-> *This package allow you to install anarchism quickly and simply on a YunoHost server.  
-If you don't have YunoHost, please see [here](https://yunohost.org/#/install) to know how to install and enjoy it.*
+> *This package allow you to install Anarchism quickly and simply on a YunoHost server.  
+If you don't have YunoHost, please see [here](https://yunohost.org/install) to know how to install and enjoy it.*
 
 ## Overview
 This is an anarchist FAQ. Its aim is to present what anarchism really stands for and indicate why you should become an anarchist.
@@ -34,8 +34,8 @@ This is an anarchist FAQ. Its aim is to present what anarchism really stands for
 
 #### Supported architectures
 
-* x86-64b - [![Build Status](https://ci-apps.yunohost.org/ci/logs/anarchism%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/anarchism/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/anarchism%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/anarchism/)
+* x86-64b - [![Build Status](https://ci-apps.yunohost.org/ci/logs/anarchism.svg)](https://ci-apps.yunohost.org/ci/apps/anarchism/)
+* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/anarchism.svg)](https://ci-apps-arm.yunohost.org/ci/apps/anarchism/)
 
 ## Links
 
