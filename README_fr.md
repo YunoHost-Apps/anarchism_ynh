@@ -19,12 +19,17 @@ Ceci est une FAQ anarchiste. Son objectif est de présenter ce que représente v
 
 **Version incluse :** 15.3-3~ynh3
 
+**Démo :** http://anarchism.pageabode.com/afaq/index.html
+
 ## Captures d'écran
 
 ![Capture d'écran de Anarchism](./doc/screenshots/anarchism.gif)
 
 ## Documentations et ressources
 
+* Site officiel de l'app : <https://salsa.debian.org/debian/anarchism/>
+* Documentation officielle de l'admin : <https://salsa.debian.org/debian/anarchism>
+* Dépôt de code officiel de l'app : <https://salsa.debian.org/debian/anarchism/>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_anarchism>
 * Signaler un bug : <https://github.com/YunoHost-Apps/anarchism_ynh/issues>
 

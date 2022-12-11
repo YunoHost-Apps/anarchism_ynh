@@ -19,12 +19,17 @@ This is an anarchist FAQ. Its aim is to present what anarchism really stands for
 
 **Shipped version:** 15.3-3~ynh3
 
+**Demo:** http://anarchism.pageabode.com/afaq/index.html
+
 ## Screenshots
 
 ![Screenshot of Anarchism](./doc/screenshots/anarchism.gif)
 
 ## Documentation and resources
 
+* Official app website: <https://salsa.debian.org/debian/anarchism/>
+* Official admin documentation: <https://salsa.debian.org/debian/anarchism>
+* Upstream app code repository: <https://salsa.debian.org/debian/anarchism/>
 * YunoHost documentation for this app: <https://yunohost.org/app_anarchism>
 * Report a bug: <https://github.com/YunoHost-Apps/anarchism_ynh/issues>
 
