@@ -1,0 +1,1 @@
+Ceci est une FAQ anarchiste. Son objectif est de présenter ce que représente vraiment l'anarchisme et d'indiquer pourquoi vous devriez devenir anarchiste.
