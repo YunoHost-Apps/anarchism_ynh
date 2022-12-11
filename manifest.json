@@ -8,6 +8,13 @@
     },
     "version": "15.3-3~ynh3",
     "url": "https://salsa.debian.org/debian/anarchism/",
+    "upstream": {
+        "license": "GPL-2.0-or-later",
+        "website": "https://salsa.debian.org/debian/anarchism/",
+        "demo": "http://anarchism.pageabode.com/afaq/index.html",
+        "admindoc": "https://salsa.debian.org/debian/anarchism",
+        "code": "https://salsa.debian.org/debian/anarchism/"
+    },
     "license": "GPL-2.0-or-later",
     "maintainer": {
         "name": "kay0u",
