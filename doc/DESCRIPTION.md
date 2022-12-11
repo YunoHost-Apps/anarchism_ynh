@@ -1,0 +1,1 @@
+This is an anarchist FAQ. Its aim is to present what anarchism really stands for and indicate why you should become an anarchist.
