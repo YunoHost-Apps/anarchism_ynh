@@ -1,6 +1,0 @@
-SOURCE_URL=https://salsa.debian.org/debian/anarchism/-/archive/debian/15.3-3/anarchism-debian-15.3-3.tar.gz
-SOURCE_SUM=7d1d7b829774441ef4772f62eed90f4d2842f60f9825ea1cd1b33b473a3edeba
-SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=

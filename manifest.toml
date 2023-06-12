@@ -1,0 +1,51 @@
+packaging_format = 2
+
+id = "anarchism"
+name = "Anarchism"
+description.en = "Exhaustive exploration of Anarchist theory and practice"
+description.fr = "Exploration exhaustive de la théorie et de la pratique anarchiste"
+
+version = "15.3-3~ynh4"
+
+maintainers = ["kay0u"]
+
+[upstream]
+license = "GPL-2.0-or-later"
+website = "https://salsa.debian.org/debian/anarchism/"
+demo = "http://anarchism.pageabode.com/afaq/index.html"
+admindoc = "https://salsa.debian.org/debian/anarchism"
+code = "https://salsa.debian.org/debian/anarchism/"
+
+[integration]
+yunohost = ">= 11.1.20"
+architectures = "all"
+multi_instance = true
+ldap = false
+sso = false
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.path]
+    type = "path"
+    default = "/anarchism"
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+[resources]
+        [resources.sources.main]
+        url = "https://salsa.debian.org/debian/anarchism/-/archive/debian/15.3-3/anarchism-debian-15.3-3.tar.gz"
+        sha256 = "7d1d7b829774441ef4772f62eed90f4d2842f60f9825ea1cd1b33b473a3edeba"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"
