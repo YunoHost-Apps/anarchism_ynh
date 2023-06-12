@@ -18,7 +18,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 This is an anarchist FAQ. Its aim is to present what anarchism really stands for and indicate why you should become an anarchist.
 
-**Shipped version:** 15.3-3~ynh3
+**Shipped version:** 15.3-3~ynh4
 
 **Demo:** http://anarchism.pageabode.com/afaq/index.html
 

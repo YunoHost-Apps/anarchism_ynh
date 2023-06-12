@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Ceci est une FAQ anarchiste. Son objectif est de présenter ce que représente vraiment l'anarchisme et d'indiquer pourquoi vous devriez devenir anarchiste.
 
-**Version incluse :** 15.3-3~ynh3
+**Version incluse :** 15.3-3~ynh4
 
 **Démo :** http://anarchism.pageabode.com/afaq/index.html
 
