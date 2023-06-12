@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # Anarchism for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/anarchism.svg)](https://dash.yunohost.org/appci/app/anarchism) ![Working status](https://ci-apps.yunohost.org/ci/badges/anarchism.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/anarchism.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/anarchism.svg)](https://dash.yunohost.org/appci/app/anarchism) ![Working status](https://ci-apps.yunohost.org/ci/badges/anarchism.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/anarchism.maintain.svg)
+
 [![Install Anarchism with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=anarchism)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -17,7 +18,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 This is an anarchist FAQ. Its aim is to present what anarchism really stands for and indicate why you should become an anarchist.
 
-**Shipped version:** 15.3-3~ynh3
+**Shipped version:** 15.3-3~ynh4
 
 **Demo:** http://anarchism.pageabode.com/afaq/index.html
 

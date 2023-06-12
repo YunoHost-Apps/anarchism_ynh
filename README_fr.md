@@ -5,31 +5,32 @@ It shall NOT be edited by hand.
 
 # Anarchism pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/anarchism.svg)](https://dash.yunohost.org/appci/app/anarchism) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/anarchism.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/anarchism.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/anarchism.svg)](https://dash.yunohost.org/appci/app/anarchism) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/anarchism.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/anarchism.maintain.svg)
+
 [![Installer Anarchism avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=anarchism)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Anarchism rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Anarchism rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 Ceci est une FAQ anarchiste. Son objectif est de présenter ce que représente vraiment l'anarchisme et d'indiquer pourquoi vous devriez devenir anarchiste.
 
-**Version incluse :** 15.3-3~ynh3
+**Version incluse :** 15.3-3~ynh4
 
 **Démo :** http://anarchism.pageabode.com/afaq/index.html
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de Anarchism](./doc/screenshots/anarchism.gif)
+![Capture d’écran de Anarchism](./doc/screenshots/anarchism.gif)
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://salsa.debian.org/debian/anarchism/>
-* Documentation officielle de l'admin : <https://salsa.debian.org/debian/anarchism>
-* Dépôt de code officiel de l'app : <https://salsa.debian.org/debian/anarchism/>
+* Site officiel de l’app : <https://salsa.debian.org/debian/anarchism/>
+* Documentation officielle de l’admin : <https://salsa.debian.org/debian/anarchism>
+* Dépôt de code officiel de l’app : <https://salsa.debian.org/debian/anarchism/>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_anarchism>
 * Signaler un bug : <https://github.com/YunoHost-Apps/anarchism_ynh/issues>
 
@@ -45,4 +46,4 @@ ou
 sudo yunohost app upgrade anarchism -u https://github.com/YunoHost-Apps/anarchism_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
