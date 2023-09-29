@@ -17,7 +17,7 @@ admindoc = "https://salsa.debian.org/debian/anarchism"
 code = "https://salsa.debian.org/debian/anarchism/"
 
 [integration]
-yunohost = ">= 11.1.20"
+yunohost = ">= 11.2"
 architectures = "all"
 multi_instance = true
 ldap = false
