@@ -31,7 +31,7 @@ Ceci est une FAQ anarchiste. Son objectif est de présenter ce que représente v
 * Site officiel de l’app : <https://salsa.debian.org/debian/anarchism/>
 * Documentation officielle de l’admin : <https://salsa.debian.org/debian/anarchism>
 * Dépôt de code officiel de l’app : <https://salsa.debian.org/debian/anarchism/>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_anarchism>
+* YunoHost Store: <https://apps.yunohost.org/app/anarchism>
 * Signaler un bug : <https://github.com/YunoHost-Apps/anarchism_ynh/issues>
 
 ## Informations pour les développeurs
