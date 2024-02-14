@@ -31,6 +31,7 @@ This is an anarchist FAQ. Its aim is to present what anarchism really stands for
 * Official app website: <https://salsa.debian.org/debian/anarchism/>
 * Official admin documentation: <https://salsa.debian.org/debian/anarchism>
 * Upstream app code repository: <https://salsa.debian.org/debian/anarchism/>
+* YunoHost Store: <https://apps.yunohost.org/app/anarchism>
 * Report a bug: <https://github.com/YunoHost-Apps/anarchism_ynh/issues>
 
 ## Developer info
