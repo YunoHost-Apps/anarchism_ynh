@@ -1,3 +1,4 @@
+#:schema https://raw.githubusercontent.com/YunoHost/apps/master/schemas/manifest.v2.schema.json
 packaging_format = 2
 
 id = "anarchism"
@@ -43,6 +44,7 @@ ram.runtime = "50M"
         url = "https://salsa.debian.org/debian/anarchism/-/archive/debian/15.3-3/anarchism-debian-15.3-3.tar.gz"
         sha256 = "7d1d7b829774441ef4772f62eed90f4d2842f60f9825ea1cd1b33b473a3edeba"
         autoupdate.strategy = "latest_gitlab_tag"
+        autoupdate.version_regex = "^debian/(.*)$"
 
     [resources.system_user]
 
