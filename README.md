@@ -11,7 +11,7 @@ It shall NOT be edited by hand.
 
 [![Install Anarchism with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=anarchism)
 
-*[Read this README in other languages.](./ALL_README.md)*
+*[Read this README in other languages.](doc/readme/ALL_README.md)*
 
 > *This package allows you to install Anarchism quickly and simply on a YunoHost server.*  
 > *If you don't have YunoHost, please consult [the guide](https://yunohost.org/install) to learn how to install it.*
@@ -26,7 +26,7 @@ This is an anarchist FAQ. Its aim is to present what anarchism really stands for
 
 ## Screenshots
 
-![Screenshot of Anarchism](./doc/screenshots/screenshots/anarchism.gif)
+![Screenshot of Anarchism](./doc/screenshots/anarchism.gif)
 
 ## Documentation and resources
 
