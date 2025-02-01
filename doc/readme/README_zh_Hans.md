@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Anarchism
 
-[![集成程度](https://dash.yunohost.org/integration/anarchism.svg)](https://dash.yunohost.org/appci/app/anarchism) ![工作状态](https://ci-apps.yunohost.org/ci/badges/anarchism.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/anarchism.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/anarchism)](https://ci-apps.yunohost.org/ci/apps/anarchism/)
+![工作状态](https://apps.yunohost.org/badge/state/anarchism)
+![维护状态](https://apps.yunohost.org/badge/maintained/anarchism)
 
 [![使用 YunoHost 安装 Anarchism](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=anarchism)
 
@@ -24,7 +26,7 @@ This is an anarchist FAQ. Its aim is to present what anarchism really stands for
 
 ## 截图
 
-![Anarchism 的截图](./doc/screenshots/anarchism.gif)
+![Anarchism 的截图](./../screenshots/anarchism.gif)
 
 ## 文档与资源
 

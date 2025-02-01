@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Anarchism YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/anarchism.svg)](https://dash.yunohost.org/appci/app/anarchism) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/anarchism.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/anarchism.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/anarchism)](https://ci-apps.yunohost.org/ci/apps/anarchism/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/anarchism)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/anarchism)
 
 [![Instalatu Anarchism YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=anarchism)
 
@@ -24,7 +26,7 @@ This is an anarchist FAQ. Its aim is to present what anarchism really stands for
 
 ## Pantaila-argazkiak
 
-![Anarchism(r)en pantaila-argazkia](./doc/screenshots/anarchism.gif)
+![Anarchism(r)en pantaila-argazkia](./../screenshots/anarchism.gif)
 
 ## Dokumentazioa eta baliabideak
 

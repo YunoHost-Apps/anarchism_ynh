@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # Anarchism para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/anarchism.svg)](https://dash.yunohost.org/appci/app/anarchism) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/anarchism.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/anarchism.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/anarchism)](https://ci-apps.yunohost.org/ci/apps/anarchism/)
+![Estado funcional](https://apps.yunohost.org/badge/state/anarchism)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/anarchism)
 
 [![Instalar Anarchism con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=anarchism)
 
@@ -24,7 +26,7 @@ This is an anarchist FAQ. Its aim is to present what anarchism really stands for
 
 ## Capturas
 
-![Captura de Anarchism](./doc/screenshots/anarchism.gif)
+![Captura de Anarchism](./../screenshots/anarchism.gif)
 
 ## Documentaciones y recursos
 
@@ -36,7 +38,7 @@ This is an anarchist FAQ. Its aim is to present what anarchism really stands for
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/anarchism_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/anarchism_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 

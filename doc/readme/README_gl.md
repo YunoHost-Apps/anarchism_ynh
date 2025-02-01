@@ -5,7 +5,9 @@ NON debe editarse manualmente.
 
 # Anarchism para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/anarchism.svg)](https://dash.yunohost.org/appci/app/anarchism) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/anarchism.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/anarchism.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/anarchism)](https://ci-apps.yunohost.org/ci/apps/anarchism/)
+![Estado de funcionamento](https://apps.yunohost.org/badge/state/anarchism)
+![Estado de mantemento](https://apps.yunohost.org/badge/maintained/anarchism)
 
 [![Instalar Anarchism con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=anarchism)
 
@@ -24,7 +26,7 @@ This is an anarchist FAQ. Its aim is to present what anarchism really stands for
 
 ## Capturas de pantalla
 
-![Captura de pantalla de Anarchism](./doc/screenshots/anarchism.gif)
+![Captura de pantalla de Anarchism](./../screenshots/anarchism.gif)
 
 ## Documentación e recursos
 
