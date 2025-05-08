@@ -6,7 +6,7 @@ name = "Anarchism"
 description.en = "Exhaustive exploration of Anarchist theory and practice"
 description.fr = "Exploration exhaustive de la théorie et de la pratique anarchiste"
 
-version = "15.3-3~ynh4"
+version = "15.3-4~ynh1"
 
 maintainers = ["kay0u"]
 
@@ -41,8 +41,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://salsa.debian.org/debian/anarchism/-/archive/debian/15.3-3/anarchism-debian-15.3-3.tar.gz"
-        sha256 = "7d1d7b829774441ef4772f62eed90f4d2842f60f9825ea1cd1b33b473a3edeba"
+        url = "https://salsa.debian.org/debian/anarchism/-/archive/debian/15.3-4/anarchism-debian-15.3-4.tar.bz2"
+        sha256 = "20b80f407271e05af9c129d6c3cc969dc8fe687ac2427f48da2f058d86224760"
         autoupdate.strategy = "latest_gitlab_tag"
         autoupdate.version_regex = "^debian/(.*)$"
 
